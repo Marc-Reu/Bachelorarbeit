@@ -1,0 +1,436 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Afolalu.2025}{article}{}
+      \name{author}{2}{}{%
+        {{hash=30852b45fc96131805e37340146bf638}{%
+           family={Afolalu},
+           familyi={A\bibinitperiod},
+           given={Oladele},
+           giveni={O\bibinitperiod}}}%
+        {{hash=659617a47ff5db67c146a810110e2c8f}{%
+           family={Tsoeu},
+           familyi={T\bibinitperiod},
+           given={Mohohlo\bibnamedelima Samuel},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \strng{fullhash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \strng{bibnamehash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \strng{authorbibnamehash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \strng{authornamehash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \strng{authorfullhash}{7d5ad1e13cd61875ec68b1a5c31da119}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Internet}
+      \field{number}{4}
+      \field{title}{Enterprise Networking Optimization: A Review of Challenges, Solutions, and Technological Interventions}
+      \field{volume}{17}
+      \field{year}{2025}
+      \field{pages}{133}
+      \range{pages}{1}
+    \endentry
+    \entry{Schreiner.2023}{book}{}
+      \name{author}{2}{}{%
+        {{hash=619ce02a208a62b6b1d5a57d17ba1f61}{%
+           family={Schreiner},
+           familyi={S\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5624e637e24754f6120ad05a208a5059}{%
+           family={Waldhorst},
+           familyi={W\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Hanser}%
+      }
+      \strng{namehash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \strng{fullhash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \strng{bibnamehash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \strng{authorbibnamehash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \strng{authornamehash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \strng{authorfullhash}{abc284550bc4e16a78d80e8c9f845bd4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8}
+      \field{isbn}{9783446474154}
+      \field{title}{Computernetzwerke: Von den Grundlagen zur Funktion und Anwendung}
+      \field{year}{2023}
+    \endentry
+    \entry{cloudflare.com.2025}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist das {\glqq}Burg- und Burgraben{\grqq}-Sicherheitsmodell?}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cloudflare.com/de-de/learning/access-management/castle-and-moat-network-security/
+      \endverb
+      \verb{url}
+      \verb https://www.cloudflare.com/de-de/learning/access-management/castle-and-moat-network-security/
+      \endverb
+    \endentry
+    \entry{Riepen.2022131}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0ae054db605732cba0d820018efb09a1}{%
+           family={Riepen},
+           familyi={R\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ae054db605732cba0d820018efb09a1}
+      \strng{fullhash}{0ae054db605732cba0d820018efb09a1}
+      \strng{bibnamehash}{0ae054db605732cba0d820018efb09a1}
+      \strng{authorbibnamehash}{0ae054db605732cba0d820018efb09a1}
+      \strng{authornamehash}{0ae054db605732cba0d820018efb09a1}
+      \strng{authorfullhash}{0ae054db605732cba0d820018efb09a1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wirtschaftsinformatik {\&} Management}
+      \field{number}{1}
+      \field{title}{Was ist Zero Trust?}
+      \field{volume}{14}
+      \field{year}{2022-1-31}
+      \field{pages}{29\bibrangedash 31}
+      \range{pages}{3}
+    \endentry
+    \entry{Horne.2021}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=3dcca7ac982d1067df09dc674e9501b0}{%
+           family={Horne},
+           familyi={H\bibinitperiod},
+           given={Dwight},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3ceecc022db3acb1493b34c6b295ee1e}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Suku},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=61f94b312b6f32fe52a1241386827fe8}{%
+           family={Daimi},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aacc7acfb15c09923827d5b292b0e8aa}{%
+           family={Arabnia},
+           familyi={A\bibinitperiod},
+           given={Hamid\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=67a88bf961bdda8eb9723782e042354f}{%
+           family={Deligiannidis},
+           familyi={D\bibinitperiod},
+           given={Leonidas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=88e080bfcae1653d8a8875f7c9b0ec64}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Min-Shiang},
+           giveni={M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=0efc5531dcffdd21bccc08ebb76d6da1}{%
+           family={Tinetti},
+           familyi={T\bibinitperiod},
+           given={Fernando\bibnamedelima G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{fullhash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{bibnamehash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{authorbibnamehash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{authornamehash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{authorfullhash}{577f65ff681c92f4f1d5c9df350d1a20}
+      \strng{editorbibnamehash}{ab3ecfc465ff7aa1fba71409d3550118}
+      \strng{editornamehash}{49177f1c6ad76132425a60a301db6aad}
+      \strng{editorfullhash}{ab3ecfc465ff7aa1fba71409d3550118}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Security, Networks, and Internet of Things}
+      \field{title}{Introducing Zero Trust by Design: Principles and Practice Beyond the Zero Trust Hype.}
+      \field{year}{2021}
+      \field{pages}{512\bibrangedash 525}
+      \range{pages}{14}
+    \endentry
+    \entry{BundesamtfurSicherheitinderInformationstechnik.2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c61cd4100327b033030a8fe0fadc5c54}{%
+           family={{Bundesamt für Sicherheit in der Informationstechnik}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c61cd4100327b033030a8fe0fadc5c54}
+      \strng{fullhash}{c61cd4100327b033030a8fe0fadc5c54}
+      \strng{bibnamehash}{c61cd4100327b033030a8fe0fadc5c54}
+      \strng{authorbibnamehash}{c61cd4100327b033030a8fe0fadc5c54}
+      \strng{authornamehash}{c61cd4100327b033030a8fe0fadc5c54}
+      \strng{authorfullhash}{c61cd4100327b033030a8fe0fadc5c54}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Positionspapier Zero Trust 2023}
+      \field{title}{Zero Trust - Positionspapier Zero Trust 2023}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/TechnischeLeitlinien/Zero-Trust/Zero-Trust_04072023.html?nn=1091870
+      \endverb
+      \verb{url}
+      \verb https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/TechnischeLeitlinien/Zero-Trust/Zero-Trust_04072023.html?nn=1091870
+      \endverb
+    \endentry
+    \entry{Fox.2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=52aa038c89160a3dd61cb9f20506c62d}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{52aa038c89160a3dd61cb9f20506c62d}
+      \strng{fullhash}{52aa038c89160a3dd61cb9f20506c62d}
+      \strng{bibnamehash}{52aa038c89160a3dd61cb9f20506c62d}
+      \strng{authorbibnamehash}{52aa038c89160a3dd61cb9f20506c62d}
+      \strng{authornamehash}{52aa038c89160a3dd61cb9f20506c62d}
+      \strng{authorfullhash}{52aa038c89160a3dd61cb9f20506c62d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Datenschutz und Datensicherheit - DuD}
+      \field{number}{3}
+      \field{title}{Zero Trust}
+      \field{volume}{46}
+      \field{year}{2022}
+      \field{pages}{174\bibrangedash 175}
+      \range{pages}{2}
+    \endentry
+    \entry{Faber.2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1823fb4bc38d1ba94d972337f912b9a1}{%
+           family={Faber},
+           familyi={F\bibinitperiod},
+           given={Eberhard},
+           giveni={E\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \strng{fullhash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \strng{bibnamehash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \strng{authorbibnamehash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \strng{authornamehash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \strng{authorfullhash}{1823fb4bc38d1ba94d972337f912b9a1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-33430-7}
+      \field{title}{IT und IT-Sicherheit in Begriffen und Zusammenhängen}
+      \field{year}{2021}
+    \endentry
+    \entry{Oelmaier.2023}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=e2969b72a90ece4ac5acd140e6c1deef}{%
+           family={Oelmaier},
+           familyi={O\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cd2f822463a0cdc32f5d0ea0b3b9758c}{%
+           family={Knebelsberger},
+           familyi={K\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=ad80a389f735426c8b4a74e253a64ff3}{%
+           family={Naefe},
+           familyi={N\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e2969b72a90ece4ac5acd140e6c1deef}{%
+           family={Oelmaier},
+           familyi={O\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cd2f822463a0cdc32f5d0ea0b3b9758c}{%
+           family={Knebelsberger},
+           familyi={K\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=ad80a389f735426c8b4a74e253a64ff3}{%
+           family={Naefe},
+           familyi={N\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{ccda337540ab1576cae433cc0f5152ac}
+      \strng{fullhash}{45f7a6f2b10da53242a6dd17bab80521}
+      \strng{bibnamehash}{45f7a6f2b10da53242a6dd17bab80521}
+      \strng{authorbibnamehash}{45f7a6f2b10da53242a6dd17bab80521}
+      \strng{authornamehash}{ccda337540ab1576cae433cc0f5152ac}
+      \strng{authorfullhash}{45f7a6f2b10da53242a6dd17bab80521}
+      \strng{editorbibnamehash}{45f7a6f2b10da53242a6dd17bab80521}
+      \strng{editornamehash}{ccda337540ab1576cae433cc0f5152ac}
+      \strng{editorfullhash}{45f7a6f2b10da53242a6dd17bab80521}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Krisenfall Ransomware}
+      \field{isbn}{978-3-658-41613-3}
+      \field{series}{Edition {<}kes{>}}
+      \field{title}{Technische Abwehr von Angriffen}
+      \field{year}{2023}
+      \field{pages}{267\bibrangedash 276}
+      \range{pages}{10}
+    \endentry
+    \entry{Kamruzzaman.2022}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=f786ab139bd56bb905751731f6f74f74}{%
+           family={Kamruzzaman},
+           familyi={K\bibinitperiod},
+           given={Abu},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4ce73fd82c99193505117556342147a}{%
+           family={Ismat},
+           familyi={I\bibinitperiod},
+           given={Sadia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8313944ad33b1bbeeb2e39848de382a3}{%
+           family={Brickley},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=02ce573f9b7152dacf9ce85570544f73}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Alvin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=60e182619b53a39d14f14a80d318ff7a}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Kutub},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7c9bc7bae1be197f15385e0e44099528}
+      \strng{fullhash}{ee20527be9321bbf6d9cc8d766b6afef}
+      \strng{bibnamehash}{ee20527be9321bbf6d9cc8d766b6afef}
+      \strng{authorbibnamehash}{ee20527be9321bbf6d9cc8d766b6afef}
+      \strng{authornamehash}{7c9bc7bae1be197f15385e0e44099528}
+      \strng{authorfullhash}{ee20527be9321bbf6d9cc8d766b6afef}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 International Conference on Cyber Warfare and Security (ICCWS)}
+      \field{isbn}{978-1-6654-8938-6}
+      \field{title}{A Comprehensive Review of Endpoint Security: Threats and Defenses}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{IBMDeutschlandGmbH.20250701}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=df93fc91c980b54d2e82d986623f008e}{%
+           family={{IBM Deutschland GmbH}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{df93fc91c980b54d2e82d986623f008e}
+      \strng{fullhash}{df93fc91c980b54d2e82d986623f008e}
+      \strng{bibnamehash}{df93fc91c980b54d2e82d986623f008e}
+      \strng{editorbibnamehash}{df93fc91c980b54d2e82d986623f008e}
+      \strng{editornamehash}{df93fc91c980b54d2e82d986623f008e}
+      \strng{editorfullhash}{df93fc91c980b54d2e82d986623f008e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Beim Patch-Management werden Firmware- und Software-Updates angewendet, um die Funktionalität zu verbessern, Sicherheitslücken zu schlie{ß}en und die Leistung zu optimieren.}
+      \field{title}{Was ist Patch-Management?}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025-07-01}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/de-de/topics/patch-management
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/de-de/topics/patch-management
+      \endverb
+    \endentry
+    \entry{cloudflare.com.20250625}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist eine Next-Generation-Firewall (NGFW)?}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2025-06-25}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cloudflare.com/de-de/learning/security/what-is-next-generation-firewall-ngfw/
+      \endverb
+      \verb{url}
+      \verb https://www.cloudflare.com/de-de/learning/security/what-is-next-generation-firewall-ngfw/
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{(}
+\endrefsection
+\endinput
+
